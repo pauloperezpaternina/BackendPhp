@@ -1,0 +1,16 @@
+{
+    "name": "paula/iniciar_proyecto",
+    "description": "Iniciar proyecto",
+    "type": "project",
+    "require": {
+        "nesbot/carbon": "2.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paulo Perez",
+            "email": "pauloperez@bittronic.net"
+        }
+    ],
+    "minimum-stability": "dev"
+}
