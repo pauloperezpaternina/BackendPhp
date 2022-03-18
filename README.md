@@ -12,6 +12,7 @@ the port could be whatever you want
 [Built-in Web Server](https://www.arsys.es/blog/programacion/servidor-web-integrado-php) 
 
 # proyecto_upper
+Created class upper and lower
 
 # paquetes
 ```bash
@@ -20,3 +21,11 @@ the port could be whatever you want
 
 # iniciar_proyecto
 comoposer init
+
+# Composer_Commands
+First new file composer.json with {} into file
+next (To create conf composer )
+```bash
+comoposer dump 
+
+```
