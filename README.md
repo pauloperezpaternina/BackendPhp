@@ -1,4 +1,7 @@
 # BackendPhp
+[packagist](https://packagist.org/)
+
+![Commands](img\composer_commands.png)
 
 ## Built-in Web Server
 
@@ -14,7 +17,7 @@ the port could be whatever you want
 # proyecto_upper
 Created class upper and lower
 
-# paquetes
+# Packages
 ```bash
     composer require --dev phpunit/phpunit
 ```
@@ -28,4 +31,12 @@ next (To create conf composer )
 ```bash
 comoposer dump 
 
+```
+This create a folder vendor 
+# Composer_Commands/packages
+If you what install package run this command, this create a composer.json file wich phpunit package.
+```bash
+composer require phpunit/phpunit
+composer remove phpunit/phpunit
+composer require phpunit/phpunit
 ```
