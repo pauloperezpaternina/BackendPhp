@@ -1,0 +1,9 @@
+{
+    "name": "Educom",
+    "description": "Instituto Online",
+    "courses": {
+        "Advanced": ["PHP", "VUEjs"],
+        "basic": ["JSON", "HTML"]
+    },
+    "example": false
+}
