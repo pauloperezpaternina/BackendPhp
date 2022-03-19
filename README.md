@@ -1,7 +1,7 @@
 # BackendPhp
 [packagist](https://packagist.org/)
 
-![Commands](img\composer_commands.png)
+![Commands](img/composer_commands.png)
 
 ## Built-in Web Server
 
