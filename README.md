@@ -40,3 +40,14 @@ composer require phpunit/phpunit
 composer remove phpunit/phpunit
 composer require phpunit/phpunit
 ```
+## LaravelApi (Blog)
+
+![api](img/what-is-api.png)
+
+Start
+```bash
+cd LaravelApi
+composer install
+php artisan serve
+
+```
