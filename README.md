@@ -51,3 +51,9 @@ composer install
 php artisan serve
 
 ```
+## socketredis
+
+Start with
+```bash
+php artisan serve
+```
